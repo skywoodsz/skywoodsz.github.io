@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianlin Zhang"
 title_separator          : "-"
 name                     : &name "Tianlin Zhang"
-description              : &description "personal description"
+description              : &description "Graduate student at Harbin Institute of Technology, Shenzhen, China"
 url                      : https://skywoodsz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skywoodsz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianlin Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate student at Harbin Institute of Technology, major in robotics"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
