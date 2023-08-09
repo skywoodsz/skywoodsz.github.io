@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianlin Zhang"
   avatar           : "profile.png"
-  bio              : "Graduate student at Harbin Institute of Technology, major in robotics"
+  bio              : "Graduate student at Harbin Institute of Technology"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : UCRsGxiYkqGvwHsZz1F8rHug
+  youtube          : # UCRsGxiYkqGvwHsZz1F8rHug
   wikipedia        :
 
 
