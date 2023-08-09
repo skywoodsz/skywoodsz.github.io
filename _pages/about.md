@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianlin Zhang"
+title: # "Tianlin Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
