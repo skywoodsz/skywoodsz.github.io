@@ -6,7 +6,7 @@ excerpt: # 'This paper is about the number 1. The number 2 is left for future wo
 date: 2020-11-01
 venue: 'Chinese Automation Congress (CAC)'
 paperurl: 'https://ieeexplore.ieee.org/document/9327306'
-citation: 'Li, L., Zhang, T., Zhong, H., Li, H., Zhang, H., Fan, S., & Cao, Y. (2021). Autonomous removing foreign objects for power transmission line by using a vision-guided unmanned aerial manipulator. Journal of Intelligent & Robotic Systems, 103, 1-14.'
+citation: 'T. Zhang, H. Zhang, H. Li, H. Zhong, X. Tang and Y. Wang, "CatchIt: Large-scale Grasping combined with Preliminary and Precise Localization method for Aerial Manipulator," 2020 Chinese Automation Congress (CAC). IEEE, 2020.'
 ---
 
 ![6D_grasp](..\images\publication\6D_grasp.gif)
