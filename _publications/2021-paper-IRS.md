@@ -9,5 +9,6 @@ paperurl: 'https://link.springer.com/article/10.1007/s10846-021-01482-3'
 citation: 'Li, L., Zhang, T., Zhong, H., Li, H., Zhang, H., Fan, S., & Cao, Y. (2021). Autonomous removing foreign objects for power transmission line by using a vision-guided unmanned aerial manipulator. Journal of Intelligent & Robotic Systems, 103, 1-14.'
 ---
 
+![uav_grasp](..\images\publication\uav_grasp.gif)
 
-[Download paper here](https://link.springer.com/article/10.1007/s10846-021-01482-3)
+[Paper](https://link.springer.com/article/10.1007/s10846-021-01482-3)
