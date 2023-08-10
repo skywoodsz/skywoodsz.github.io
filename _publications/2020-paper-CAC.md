@@ -9,5 +9,6 @@ paperurl: 'https://ieeexplore.ieee.org/document/9327306'
 citation: 'Li, L., Zhang, T., Zhong, H., Li, H., Zhang, H., Fan, S., & Cao, Y. (2021). Autonomous removing foreign objects for power transmission line by using a vision-guided unmanned aerial manipulator. Journal of Intelligent & Robotic Systems, 103, 1-14.'
 ---
 
+![6D_grasp](..\images\publication\6D_grasp.gif)
 
-[Download paper here](https://ieeexplore.ieee.org/document/9327306)
+[Paper](https://ieeexplore.ieee.org/document/9327306)
