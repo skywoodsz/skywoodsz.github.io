@@ -14,4 +14,4 @@ I want to become a full-stack roboticist, and can be stimulated by technology in
 I have extensive development experience with legged robots, UAVs, and mobile manipulators. 
 I also pay attention to the research of optimal control, SLAM, vision servo, planning, and pose estimation. 
 You can get my result video on [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) and [Bilibili](https://space.bilibili.com/3289375) (for China). 
-You can download my Curriculum Vitae to get more information about me.
+You can download my [Curriculum Vitae](https://skywoodsz.github.io/cv) to get more information about me.
