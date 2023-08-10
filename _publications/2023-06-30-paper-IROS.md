@@ -9,7 +9,6 @@ paperurl: 'https://arxiv.org/abs/2307.08838'
 citation: 'Zhang, T., Guo, S., Xiong, X., Li, W., Qi, Z., & Lou, Y. (2023). Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach. arXiv preprint arXiv:2307.08838.'
 ---
 
-[Paper](https://arxiv.org/abs/2307.08838), Video: [Youtube](https://www.youtube.com/watch?v=Tep_d-BOPwo), [Bilibili](https://www.bilibili.com/video/BV1ty4y1X7q1/)(for China).
-
 ![dynamic_tracking](..\images\publication\dynamic_tracking.gif)
 
+[Download paper here](https://arxiv.org/abs/2307.08838)
