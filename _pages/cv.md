@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](../files/cv/Tianlin_Zhang.pdf)
-
 Download [CV](../files/cv/Tianlin_Zhang.pdf){:target="_blank"}.
 
 <object data="../files/cv/Tianlin_Zhang.pdf" type="application/pdf" width="700px" height="700px">
