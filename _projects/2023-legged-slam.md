@@ -2,7 +2,7 @@
 title: "legged_slam: a SLAM framework for legged robot"
 excerpt: "State Key Laboratory of Robotics and System, China 
 <br/>
-img src='/images/projects/legged_slam/b1_slope.gif'
+<img src='/images/projects/legged_slam/b1_slope.gif' />
 "
 collection: projects
 date: 2023-05-01
