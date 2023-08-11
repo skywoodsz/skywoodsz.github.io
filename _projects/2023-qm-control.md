@@ -5,6 +5,10 @@ collection: projects
 date: 2023-07-01
 ---
 
+qm_control is a quadruped manipulator controller using model predictive control and whole body control. We aim to make the quadruped manipulator perform better in coordination and balance. 
+
+[Code](https://github.com/skywoodsz/qm_control), Video: [YouTube](https://youtu.be/JCn5obOh4D8), [Bilibili](https://www.bilibili.com/video/BV1uP411v7Ab) (for China).
+
 <p>
 <img src="../images/projects/qm_control/position_cmd.gif"  width = "400"/>
 <img src="../images/projects/qm_control/chicken_hand.gif"  width = "400"/>
