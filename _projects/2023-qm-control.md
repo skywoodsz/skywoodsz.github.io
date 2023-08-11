@@ -2,7 +2,6 @@
 title: "qm_control: a MPC and WBC framework for the quadruped manipulator"
 excerpt: "State Key Laboratory of Robotics and System, China"
 collection: projects
-permalink: /projects/2023-qm-control
 date: 2023-07-01
 ---
 
