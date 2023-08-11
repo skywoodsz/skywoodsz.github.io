@@ -20,6 +20,15 @@ You can also download my [Curriculum Vitae](https://skywoodsz.github.io/cv) to g
 
 ## Selected projects
 ### [qm_control: a MPC and WBC framework for the quadruped manipulator](https://skywoodsz.github.io/projects/2023-qm-control/)
+<table><tr>
+<td><img src="../images/projects/qm_control/position_cmd.gif" width="400"/></td>
+<td><img src="../images/projects/qm_control/chicken_hand.gif" width="400"/></td>
+</tr></table> 
+<table><tr>
+<td><img src="../images/projects/qm_control/real1.gif" width="400"/></td>
+<td><img src="../images/projects/qm_control/real2.gif" width="400"/></td>
+</tr></table> 
+
 <!-- ![sim1](../images/projects/qm_control/position_cmd.gif) | ![sim2](../images/projects/qm_control/chicken_hand.gif)
 ![real1](../images/projects/qm_control/real1.gif) | ![real2](../images/projects/qm_control/real2.gif) -->
 
