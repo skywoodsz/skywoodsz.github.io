@@ -14,3 +14,19 @@ I have extensive development experience with legged robots, UAVs, and mobile man
 I also pay attention to the research of optimal control, SLAM, vision servo, planning, and pose estimation. 
 You can get my result video on [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China). 
 You can also download my [Curriculum Vitae](https://skywoodsz.github.io/cv) to get more information about me.
+
+## Selected projects
+
+---
+title: "qm_control: a MPC and WBC framework for the quadruped manipulator"
+excerpt: "State Key Laboratory of Robotics and System, China 
+<br/>
+<img src='/images/projects/qm_control/position_cmd.gif'  width = '400'/>
+<img src='/images/projects/qm_control/chicken_hand.gif'  width = '400'/>
+<img src='/images/projects/qm_control/real1.gif' width = '400'/>
+<img src='/images/projects/qm_control/real2.gif' width = '400'/>
+"
+collection: projects
+date: 2023-07-01
+---
+
