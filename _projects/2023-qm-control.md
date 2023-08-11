@@ -1,6 +1,13 @@
 ---
 title: "qm_control: a MPC and WBC framework for the quadruped manipulator"
-excerpt: "State Key Laboratory of Robotics and System, China"
+excerpt: "State Key Laboratory of Robotics and System, China 
+<br/><p align = 'center'>
+<img src='/images/projects/qm_control/position_cmd.gif'  width = '400'/>
+<img src='/images/projects/qm_control/chicken_hand.gif'  width = '400'/>
+<img src='/images/projects/qm_control/real1.gif' width = '400' />
+<img src='/images/projects/qm_control/real2.gif' width = '400'  />
+</p>
+"
 collection: projects
 date: 2023-07-01
 ---
@@ -14,3 +21,4 @@ qm_control is a quadruped manipulator controller using model predictive control 
 ![sim2](/images/projects/qm_control/chicken_hand.gif)
 ![real1](/images/projects/qm_control/real1.gif)
 ![real2](/images/projects/qm_control/real2.gif)
+
