@@ -9,9 +9,8 @@ qm_control is a quadruped manipulator controller using model predictive control 
 
 [Code](https://github.com/skywoodsz/qm_control), Video: [YouTube](https://youtu.be/JCn5obOh4D8), [Bilibili](https://www.bilibili.com/video/BV1uP411v7Ab) (for China).
 
-<p>
-<img src="../images/projects/qm_control/position_cmd.gif"  width = "400"/>
-<img src="../images/projects/qm_control/chicken_hand.gif"  width = "400"/>
-<img src="../images/projects/qm_control/202306191701 00_00_33-00_00_48.gif" width = "400" />
-<img src="../images/projects/qm_control/202306291554 00_01_03-00_01_19~2.gif" width = "400"  />
-</p>
+
+![sim1](../images/projects/qm_control/position_cmd.gif)
+![sim2](../images/projects/qm_control/chicken_hand.gif)
+![real1](../images/projects/qm_control/real1.gif)
+![real2](../images/projects/qm_control/real2.gif)
