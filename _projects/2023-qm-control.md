@@ -1,5 +1,5 @@
 ---
-title: "qm_control: a MPC and WBC framework for the quadruped manipulator"
+title: "qm_control: a MPC and WBC framework for quadruped manipulator"
 excerpt: "State Key Laboratory of Robotics and System, China 
 <br/>
 <img src='/images/projects/qm_control/position_cmd.gif'  width = '400'/>
