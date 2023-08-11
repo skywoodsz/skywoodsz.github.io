@@ -5,7 +5,7 @@ collection: projects
 date: 2023-07-01
 ---
 
-<p align = "center">
+<p>
 <img src="../images/projects/qm_control/position_cmd.gif"  width = "400"/>
 <img src="../images/projects/qm_control/chicken_hand.gif"  width = "400"/>
 <img src="../images/projects/qm_control/202306191701 00_00_33-00_00_48.gif" width = "400" />
