@@ -19,7 +19,7 @@ The repository includes the state estimator and the terrain estimator for the qu
 ## LVI-SAM with legged odometry
 The repository fuses leg odometry to LVI-SAM, enabling estimation of quadruped robot states in degraded scenarios.
 
+[code](https://github.com/skywoodsz/LVI-SAM-Quadruped)
+
 ![lvi_sam_robot](/images/projects/legged_slam/lvi_sam_robot.png)
 ![lvi_sam_result](/images/projects/legged_slam/lvi_sam_result.png)
-
-[code](https://github.com/skywoodsz/LVI-SAM-Quadruped)
