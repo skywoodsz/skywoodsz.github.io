@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-# Biography
+## Biography
 I am Tianlin Zhang (张天霖), a graduate student at Harbin Institute of Technology (HIT), majoring in Robotics. 
 I have extensive development experience with legged robots, UAVs, and mobile manipulators. 
 I also pay attention to the research of optimal control, SLAM, vision servo, planning, and pose estimation. 
 You can get my result video on [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China). 
 You can also download my [Curriculum Vitae](https://skywoodsz.github.io/cv) to get more information about me.
 
-# Selected publications
-- **Tianlin Zhang**, Sikai Guo, Xiaogang Xiong, Wanlei Li, Zezheng Qi, and Yunjiang Lou. "Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Accepted, 2023. [link](https://skywoodsz.github.io/publication/2023-06-30-paper-IROS)
+## Selected publications
+- **T. Zhang**, S. Guo, X. Xiong, W. Li, Z. Qi, and Y. Lou. "Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach", 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Accepted, 2023. [link](https://skywoodsz.github.io/publication/2023-06-30-paper-IROS)
 
-# Selected projects
-## [qm_control: a MPC and WBC framework for the quadruped manipulator](https://skywoodsz.github.io/projects/2023-qm-control/)
+## Selected projects
+### [qm_control: a MPC and WBC framework for the quadruped manipulator](https://skywoodsz.github.io/projects/2023-qm-control/)
 ![sim1](../images/projects/qm_control/position_cmd.gif) | ![sim2](../images/projects/qm_control/chicken_hand.gif)
 ![real1](../images/projects/qm_control/real1.gif) | ![real2](../images/projects/qm_control/real2.gif)
 
-## [Aerial manipulator: vision servo for aerial manipulator](https://skywoodsz.github.io/projects/2021-aerial-manipualtor/)
+### [Aerial manipulator: vision servo for aerial manipulator](https://skywoodsz.github.io/projects/2021-aerial-manipualtor/)
 <img src="..\images\publication\uav_grasp.gif" alt="uav_grasp" style="zoom:80%;" />
