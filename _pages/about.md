@@ -17,16 +17,12 @@ You can also download my [Curriculum Vitae](https://skywoodsz.github.io/cv) to g
 
 ## Selected projects
 
----
-title: "qm_control: a MPC and WBC framework for the quadruped manipulator"
-excerpt: "State Key Laboratory of Robotics and System, China 
-<br/>
-<img src='/images/projects/qm_control/position_cmd.gif'  width = '400'/>
-<img src='/images/projects/qm_control/chicken_hand.gif'  width = '400'/>
-<img src='/images/projects/qm_control/real1.gif' width = '400'/>
-<img src='/images/projects/qm_control/real2.gif' width = '400'/>
-"
-collection: projects
-date: 2023-07-01
----
+### [qm_control: a MPC and WBC framework for the quadruped manipulator](https://skywoodsz.github.io/projects/2023-qm-control/)
+<img src='../images/projects/qm_control/position_cmd.gif'  width = '400'/>
+<img src='../images/projects/qm_control/chicken_hand.gif'  width = '400'/>
+<img src='../images/projects/qm_control/real1.gif' width = '400'/>
+<img src='../images/projects/qm_control/real2.gif' width = '400'/>
 
+### [Aerial manipulator: vision servo for aerial manipulator](https://skywoodsz.github.io/projects/2021-aerial-manipualtor/)
+
+![uav_grasp](..\images\publication\uav_grasp.gif)
