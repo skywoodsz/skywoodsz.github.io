@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 I am Tianlin Zhang (张天霖), a graduate student at Harbin Institute of Technology (HIT), majoring in Robotics. 
-I have extensive development experience with legged robots, UAVs, and mobile manipulators. 
+I have extensive experience with legged robots, UAVs, and mobile manipulators. 
 I also pay attention to the research of optimal control, SLAM, vision servo, planning, and pose estimation. 
 You can get my result video on [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China). 
 More information about me can be found in [Curriculum Vitae](https://skywoodsz.github.io/cv).
