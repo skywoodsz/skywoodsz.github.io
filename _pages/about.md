@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 ## Biography
-I am Tianlin Zhang (张天霖), a graduate student at Harbin Institute of Technology (HIT), majoring in Robotics. 
-I have extensive experience with legged robots, UAVs, and mobile manipulators. 
-I also pay attention to the research of optimal control, SLAM, vision servo, planning, and pose estimation. 
-You can get my result video on [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China). 
-More information about me can be found in [Curriculum Vitae](https://skywoodsz.github.io/cv).
+I am Tianlin Zhang (张天霖), a Robotics graduate student at Harbin Institute of Technology (HIT). My academic focus encompasses legged robots, UAVs, and mobile manipulators, and I have accumulated substantial practical experience in these domains. 
+My research interests encompass Optimal Control, Simultaneous Localization and Mapping (SLAM), Vision Servoing, Planning, and Pose Estimation. 
+I have also made available a video showcasing my outcomes on platforms such as [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China).
+Further details about my background and accomplishments can be accessed in my [Curriculum Vitae](https://skywoodsz.github.io/cv).
 
 ## Selected publications
 **T. Zhang**, S. Guo, X. Xiong, W. Li, Z. Qi, and Y. Lou. "Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach", *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Accepted, 2023. [link](https://skywoodsz.github.io/publication/2023-06-30-paper-IROS)
