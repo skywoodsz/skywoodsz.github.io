@@ -10,7 +10,7 @@ date: 2023-05-01
 
 ## Quadruped State Estimation
 
-The repository includes the state estimator and the terrain estimator for the quadruped. The state estimator uses Linear Kalman to estimate the position and velocity of the quadruped centroid. The terrain estimator estimates the normal vector of the ground. The algorithm is validated on the real robot Aliengo and can be deployed to other quadruped robots.
+The repository includes the state estimator and the terrain estimator for the quadruped. The state estimator uses Linear Kalman to estimate the position and velocity of the quadruped. The terrain estimator estimates the normal vector of the ground. The algorithm is validated on the real robot Aliengo and can be deployed to other quadruped robots.
 
 [Code](https://github.com/skywoodsz/Quadruped-State-Estimation)
 
