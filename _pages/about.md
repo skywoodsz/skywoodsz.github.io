@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+## Current
+*I am looking for a Ph.D. position in Robotics.*
+*If you are interested, you can send me [email](skywoodszcn@gmail.com).*
+
 ## Biography
 I am Tianlin Zhang (张天霖), a graduate student studying Robotics at Harbin Institute of Technology, Shenzhen (HITSZ).
 My research interests encompass Optimal Control, Vision Servoing, Simultaneous Localization and Mapping (SLAM), Planning, and Pose Estimation. 
