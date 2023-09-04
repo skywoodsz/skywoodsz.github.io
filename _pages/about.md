@@ -13,10 +13,10 @@ redirect_from:
 *If you are interested, you can send me an email at <skywoodszcn@gmail.com>.*
 
 ## Biography
-I am Tianlin Zhang (张天霖), a graduate student studying Robotics at Harbin Institute of Technology, Shenzhen (HITSZ).
-My research interests encompass Optimal Control, Vision Servoing, Simultaneous Localization and Mapping (SLAM), Planning, and Pose Estimation. 
+I am Tianlin Zhang (张天霖), a Control Engineering graduate student at Harbin Institute of Technology, Shenzhen (HITSZ).
+I have committed to diverse research on optimal control, SLAM, vision servoing, planning, and pose estimation. 
 My research aims to make robots cognitive and athletic in real-world environments.
-I've worked with legged robots, UAVs, and mobile manipulators.
+I have accumulated relatively rich research and development experience with various robots, like legged robots, UAVs, and mobile manipulators.
 You can explore my work on platforms like [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China). 
 Further details about my background and accomplishments can be accessed in my [Curriculum Vitae](https://skywoodsz.github.io/cv).
 
