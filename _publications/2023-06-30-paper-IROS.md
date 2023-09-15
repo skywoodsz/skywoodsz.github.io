@@ -11,4 +11,4 @@ citation: 'T. Zhang, S. Guo, X. Xiong, W. Li, Z. Qi, and Y. Lou, Dynamic Object 
 
 ![dynamic_tracking](..\images\publication\dynamic_tracking.gif)
 
-[Paper](https://arxiv.org/abs/2307.08838), Video: [Youtube](https://www.youtube.com/watch?v=Tep_d-BOPwo), [Bilibili](https://www.bilibili.com/video/BV1ty4y1X7q1/)(for China).
+[Paper](https://arxiv.org/abs/2307.08838), Video: [Youtube](https://www.youtube.com/watch?v=Tep_d-BOPwo), [Bilibili](https://www.bilibili.com/video/BV1ty4y1X7q1/)(for China), Talk: [YouTube](https://youtu.be/m_HDqQJgkm8), [Bilibili](https://www.bilibili.com/video/BV1Au411c7Re) (for China).
