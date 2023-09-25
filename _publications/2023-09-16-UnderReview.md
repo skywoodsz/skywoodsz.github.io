@@ -11,4 +11,4 @@ citation: #'T. Zhang, S. Guo, X. Xiong, W. Li, Z. Qi, and Y. Lou, Dynamic Object
 
 ![compliant](..\images\publication\compliant.gif)
 
-Video: [Youtube](https://youtu.be/Nr3L5tknHOY), [Bilibili](https://www.bilibili.com/video/BV1Au411c7Re)(for China).
+Video: [Youtube](https://youtu.be/vsqDYrfC9iM), [Bilibili](https://www.bilibili.com/video/BV1Au411c7Re)(for China).
