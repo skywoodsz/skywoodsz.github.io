@@ -40,7 +40,5 @@ Further details about my background and accomplishments can be accessed in my [C
 
 ## Professional Activities
 - Conference Reviews:  
-
-IEEE International Conference on Robotics and Automation (ICRA) 2019, 2023.  
-
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.
+  IEEE International Conference on Robotics and Automation (ICRA) 2024.  
+  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.
