@@ -39,6 +39,8 @@ Further details about my background and accomplishments can be accessed in my [C
 <img src="..\images\publication\uav_grasp.gif" alt="uav_grasp" style="zoom:80%;" />
 
 ## Professional Activities
-- Conference Reviews:
-IEEE International Conference on Robotics and Automation (ICRA) 2019, 2023.
+- Conference Reviews:  
+
+IEEE International Conference on Robotics and Automation (ICRA) 2019, 2023.  
+
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.
