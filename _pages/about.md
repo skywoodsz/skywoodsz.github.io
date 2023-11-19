@@ -15,7 +15,7 @@ redirect_from:
 ## Biography
 I am Tianlin Zhang (张天霖), a Control Engineering graduate student at Harbin Institute of Technology, Shenzhen (HITSZ).
 I have committed to diverse research on optimal control, SLAM, visual servoing, planning, and pose estimation. 
-My research aims to make robots cognitive and athletic in real-world envvironments.
+My research aims to make robots cognitive and athletic in real-world environments.
 I have accumulated relatively rich research and development experience with various robots, like legged robots, UAVs, and mobile manipulators.
 You can explore my work on platforms like [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China). 
 Further details about my background and accomplishments can be accessed in my [Curriculum Vitae](https://skywoodsz.github.io/cv).
