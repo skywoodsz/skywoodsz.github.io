@@ -1,5 +1,5 @@
 ---
-title: "Whole-body Compliant Control for Quadruped Manipulator with Torque Saturation"
+title: "Whole-body Compliance Control for Quadruped Manipulator with Actuation Saturation of Joint Torque and Ground Friction"
 collection: publications
 permalink: /publication/2023-09-16-UnderReview
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
@@ -11,4 +11,4 @@ citation: #'T. Zhang, S. Guo, X. Xiong, W. Li, Z. Qi, and Y. Lou, Dynamic Object
 
 ![compliant](..\images\publication\compliant.gif)
 
-Video: [Youtube](https://youtu.be/vsqDYrfC9iM), [Bilibili](https://www.bilibili.com/video/BV1Au411c7Re)(for China).
+[Code](https://github.com/skywoodsz/qm_control/tree/feature-compliance), Video: [Youtube](https://youtu.be/EUXxHV2ZGMQ), [Bilibili](https://www.bilibili.com/video/BV1vi421d7rq)(for China).

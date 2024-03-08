@@ -23,7 +23,7 @@ Further details about my background and accomplishments can be accessed in my [C
 ## Selected publications
 - **T. Zhang**, S. Guo, X. Xiong, W. Li, Z. Qi and Y. Lou, "Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 727-734, doi: 10.1109/IROS55552.2023.10341608. [link](https://skywoodsz.github.io/publication/2023-06-30-paper-IROS)
 
-- **T. Zhang**, X. Peng, S. Guo, X. Xiong, Y. Bai, K. Li and Y. Lou. "Whole-body Compliant Control for Quadruped Manipulator with Torque Saturation", *IEEE Robotics and Automation Letters(RA-L)*, Under review. [link](https://skywoodsz.github.io/publication/2023-09-16-UnderReview)
+- **T. Zhang**, F. Lin, X. Peng, X. Xiong, and Y. Lou. "Whole-body Compliance Control for Quadruped Manipulator with Actuation Saturation of Joint Torque and Ground Friction", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Under review. [link](https://skywoodsz.github.io/publication/2023-09-16-UnderReview)
 
 ## Selected projects
 ### [qm_control: a MPC and WBC framework for quadruped manipulator](https://skywoodsz.github.io/projects/2023-qm-control/)
