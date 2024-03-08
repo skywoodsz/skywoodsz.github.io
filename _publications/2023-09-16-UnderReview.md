@@ -11,4 +11,4 @@ citation: #'T. Zhang, S. Guo, X. Xiong, W. Li, Z. Qi, and Y. Lou, Dynamic Object
 
 ![compliant](..\images\publication\compliant.gif)
 
-[Code](https://github.com/skywoodsz/qm_control/tree/feature-compliance), Video: [Youtube](https://youtu.be/EUXxHV2ZGMQ), [Bilibili](https://www.bilibili.com/video/BV1vi421d7rq)(for China).
+[Code](https://github.com/skywoodsz/qm_control/tree/feature-compliance), Video: [Youtube](https://youtu.be/gK7PCxNsuZ8), [Bilibili](https://www.bilibili.com/video/BV1dy421e7PZ)(for China).
