@@ -17,7 +17,7 @@ The repository includes a state estimator and a terrain estimator for quadruped 
 ![aliengo](/images/projects/legged_slam/aliengo.jpg)
 
 ## LVI-SAM with legged odometry
-The repository fuses leg odometry to LVI-SAM, enabling the estimation of quadruped robot states in degraded scenarios.
+The repository fuses leg odometry to LVI-SAM, robustly estimating states of quadruped robots in degraded scenarios.
 
 [Code](https://github.com/skywoodsz/LVI-SAM-Quadruped)
 
