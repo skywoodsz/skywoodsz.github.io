@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Tianlin Zhang"
   avatar           : "dummy_self.png"
-  bio              : "Graduate student at Harbin Institute of Technology"
+  bio              : "Master's student, School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?hl=zh-CN&user=Pm70AoEAAAAJ
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Pm70AoEAAAAJ"
   email            : "skywoodszcn@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
