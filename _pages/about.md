@@ -15,7 +15,7 @@ redirect_from:
 ## Biography
 I am Tianlin Zhang (张天霖), a master's student at Harbin Institute of Technology, Shenzhen (HITSZ).
 My research interests include optimal control, visual servoing, and whole-body control. 
-I have a lot of work experience with various robots, like legged robots, UAVs, and mobile manipulators.
+I have a lot of work experience with robots, including legged robots, UAVs, and mobile manipulators.
 You can explore my work on platforms like [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) or [Bilibili](https://space.bilibili.com/3289375) (for China). 
 Further details about me can be found in my [Curriculum Vitae](https://skywoodsz.github.io/cv).
 
