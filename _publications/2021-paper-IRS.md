@@ -11,4 +11,4 @@ citation: 'L. Li, T. Zhang, H. Zhong, H. Li, H. Zhang, S. Fan, and Y. Cao, "Auto
 
 ![uav_grasp](..\images\publication\uav_grasp.gif)
 
-[Paper](https://link.springer.com/article/10.1007/s10846-021-01482-3), [Video](https://www.bilibili.com/video/BV1f64y1k7WD/).
+[Paper](https://link.springer.com/article/10.1007/s10846-021-01482-3), [Youtube](https://youtu.be/uJy2-OZN7kg), [Bilibili](https://www.bilibili.com/video/BV1f64y1k7WD/)(for China).
