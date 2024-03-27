@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianlin Zhang"
 title_separator          : "-"
 name                     : &name "Tianlin Zhang"
-description              : &description "Graduate student at Harbin Institute of Technology, Shenzhen, China"
+description              : &description "Master's student, School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen"
 url                      : https://skywoodsz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skywoodsz/skywoodsz.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Pm70AoEAAAAJ
   email            : "skywoodszcn@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
