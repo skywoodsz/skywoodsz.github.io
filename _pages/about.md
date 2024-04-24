@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## Current
+<!-- ## Current
 *I am looking for a Ph.D. position in Robotics.*
-*If you are interested in my research, please contact me at <skywoodszcn@gmail.com>.* 
+*If you are interested in my research, please contact me at <skywoodszcn@gmail.com>.*  -->
 
 ## Biography
 I am Tianlin Zhang (张天霖), a master's student at Harbin Institute of Technology, Shenzhen (HITSZ).
