@@ -8,6 +8,11 @@ collection: projects
 date: 2024-04-17
 ---
 
+## 论文
+张天霖. 基于视觉伺服与集值反馈的四足机械臂动态物体抓取研究[D]. 哈尔滨: 哈尔滨工业大学, 2024.
+
+*Notes: 可以通过**哈尔滨工业大学图书馆**和**深圳大学城图书馆**搜索查询。*
+
 ## 章节3 四足机械臂腿臂协同控制器设计
 ### 3.4 仿真验证
 实验代码：[https://github.com/skywoodsz/qm_control](https://github.com/skywoodsz/qm_control)
