@@ -12,10 +12,11 @@ redirect_from:
 Download [CV](../files/cv/Tianlin_Zhang.pdf){:target="_blank"}.
 
 ## Education
-- M.Eng. in Control Engineering, Harbin Institute of Technology, Shenzhen, 2021-2024.
-- B.S. in Automation Engineering, Changsha University of Science and Technology, 2017-2021.
+- M.S. in Control Engineering, Harbin Institute of Technology, Shenzhen, 2021-2024.
+- B.E. in Automation Engineering, Changsha University of Science and Technology, 2017-2021.
 
 ## Research Experience
+- Engineer in Hong Kong Centre for Logistics Robotics (HKCLR), Hongkong, China, 2024-Present.
 - Research Assistant in State Key Laboratory of Robotics and System, Shenzhen, China, 2021-2024.
 - Research Assistant in National Engineering Research Center of Robot Vision and Control, Changsha, China, 2019-2021
   

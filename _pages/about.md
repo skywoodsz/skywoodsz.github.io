@@ -22,7 +22,7 @@ Further details about me can be found in my [Curriculum Vitae](https://skywoodsz
 ## Selected Publications ([Full List](https://skywoodsz.github.io/publications/))
 - **T. Zhang**, S. Guo, X. Xiong, W. Li, Z. Qi and Y. Lou, "Dynamic Object Tracking for Quadruped Manipulator with Spherical Image-Based Approach," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 727-734, doi: 10.1109/IROS55552.2023.10341608. [link](https://skywoodsz.github.io/publication/2023-06-30-paper-IROS)
 
-- **T. Zhang**, F. Lin, X. Peng, X. Xiong, and Y. Lou. "Whole-body Compliance Control for Quadruped Manipulator with Actuation Saturation of Joint Torque and Ground Friction", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Accepted. [link](https://skywoodsz.github.io/publication/2023-09-16-UnderReview)
+- **T. Zhang**, X. Peng, F. Lin, X. Xiong, and Y. Lou. "Whole-body Compliance Control for Quadruped Manipulator with Actuation Saturation of Joint Torque and Ground Friction", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Accepted. [link](https://skywoodsz.github.io/publication/2023-09-16-IROS)
 
 ## Selected Projects ([Full List](https://skywoodsz.github.io/projects/))
 ### [qm_control: a MPC-WBC framework for quadruped manipulators](https://skywoodsz.github.io/projects/2023-qm-control/)
@@ -40,5 +40,5 @@ Further details about me can be found in my [Curriculum Vitae](https://skywoodsz
 
 ## Services
 - Conference Reviews:  
-  IEEE International Conference on Robotics and Automation (ICRA) 2024.  
+  IEEE International Conference on Robotics and Automation (ICRA) 2024, 2025.  
   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023.
