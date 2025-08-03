@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tianlin Zhang"
   avatar           : "dummy_self.png"
-  bio              : "Master's student, School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Pm70AoEAAAAJ"
