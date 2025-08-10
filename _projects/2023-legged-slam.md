@@ -1,11 +1,12 @@
 ---
 title: "legged_slam: a SLAM framework for legged robot"
-excerpt: "State Key Laboratory of Robotics and System, China 
-<br/>
-<img src='/images/projects/legged_slam/b1_slope.gif' />
-"
+venue: "Harbin Institute of Technology, Shenzhen"
+date: "2024-06-01"
+image: "/images/projects/legged_slam/b1_slope.gif"
+code: https://github.com/skywoodsz/Quadruped-State-Estimation
+website: https://skywoodsz.github.io/projects/2023-legged-slam/
 collection: projects
-date: 2023-05-01
+excerpt: ""
 ---
 
 ## Quadruped State Estimation

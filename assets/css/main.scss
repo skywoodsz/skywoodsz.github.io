@@ -2,40 +2,101 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
+ * This file controls what is imported from /_sass
  *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
+@import
+    "vendor/breakpoint/breakpoint",
 
-@import "reset";
-@import "base";
+    "themes",
+    "theme/default",
+    "theme/dark",
 
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
+    "include/mixins",
+    "vendor/susy/susy",
 
-@import "forms";
+    "layout/reset",
+    "layout/base",
 
-@import "page";
-@import "archive";
-@import "sidebar";
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
 
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;
+
+.pub-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(0,0,0,.06);
+}
+
+.pub-thumb {
+  flex: 0 0 220px;               /* 缩略图宽度，可调 */
+  max-width: 240px;
+}
+.pub-thumb img {
+  width: 100%; height: 100%; object-fit:cover; display: block; border-radius: .4rem;
+}
+.pub-item {
+  align-items: stretch; /* 让左右两列高度对齐 */
+}
+
+.pub-body { flex: 1 1 auto; min-width: 240px; }
+
+.pub-title {
+  margin: 0 0 .25rem; font-size: 1rem; font-weight: 700; line-height: 1.3; color: #111;
+}
+.pub-title a { color: inherit; text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+
+.pub-authors { margin: 0 0 .25rem; color: #333; }
+.pub-venue   { margin: 0 0 .5rem;  color: #444; }
+
+.pub-actions {
+  display: flex;
+  flex-wrap: wrap; /* 按钮多的时候自动换行 */
+  align-items: center;
+  gap: .5rem;
+}
+
+.pub-actions details {
+  display: inline-block; /* 让 details 和按钮一样内联 */
+}
+.pub-actions summary {
+  display: inline-block;
+}
+.btn-tag {
+  display: inline-block; padding: .35rem .65rem;
+  border: 1px solid rgba(0,0,0,.18); border-radius: .45rem;
+  font-size: .9rem; line-height: 1; color: #111; background: #fff;
+  text-decoration: none; box-shadow: 0 1px 0 rgba(0,0,0,.04);
+}
+.btn-tag:hover { background: #f6f6f6; text-decoration: none; }
+
+/* 去掉作者行里的链接下划线（如果有作者链接） */
+.pub-authors a { text-decoration: none; }
+
+/* Mobile: stack image over text */
+@media (max-width: 768px) {
+  .pub-item { flex-direction: column; }
+  .pub-thumb { flex-basis: auto; max-width: none; }
+}

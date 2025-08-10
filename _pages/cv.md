@@ -9,25 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](../files/cv/Tianlin_Zhang.pdf){:target="_blank"}.
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
-## Education
-- M.S. in Control Engineering, Harbin Institute of Technology, Shenzhen, 2021-2024.
-- B.E. in Automation Engineering, Changsha University of Science and Technology, 2017-2021.
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-## Research Experience
-- Engineer in Hong Kong Centre for Logistics Robotics (HKCLR), Hongkong, China, 2024-Present.
-- Research Assistant in State Key Laboratory of Robotics and System, Shenzhen, China, 2021-2024.
-- Research Assistant in National Engineering Research Center of Robot Vision and Control, Changsha, China, 2019-2021
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
-## Languages 
-- Chinese: Native
-- English: Proficient with IELTS 6.5 (Listening: 6.5, Reading: 7.0, Writing: 6.0, Speaking: 7.0)
-- Japanese: Proficient with JLPT N2
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-
-<!-- <object data="../files/cv/Tianlin_Zhang.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../files/cv/Tianlin_Zhang.pdf">
-        <p>This browser does not support PDFs. Please <a href="../files/cv/Tianlin_Zhang.pdf">download the PDF</a> to view.</p>
-    </embed>
-</object> -->
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams

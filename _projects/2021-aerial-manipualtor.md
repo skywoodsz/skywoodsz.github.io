@@ -1,12 +1,13 @@
 ---
 title: "Aerial manipulator: vision servo for aerial manipulator"
-excerpt: "National Engineering Research Center of Robot Vision and Control, China 
-<br/>
-<img src='/images/projects/aerial_manipulator/robot.png' />
-"
+venue: "National Engineering Research Center of Robot Vision and Control"
+date: "2021-06-01"
+image: "/images/projects/aerial_manipulator/robot.png"
+website: https://skywoodsz.github.io/projects/2021-aerial-manipualtor
 collection: projects
-date: 2021-06-01
+excerpt: ""
 ---
+
 
 ## Autonomous removing foreign objects for power transmission line
 
