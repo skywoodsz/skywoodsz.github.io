@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Zhang Tianlin",
+    "email": "skywoodszcn@gmail.com",
+    "website": "https://skywoodsz.github.io/",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "China",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=Pm70AoEAAAAJ"
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": "https://github.com/skywoodsz"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Tianlin_Zhang3?ev=hdr_xprf"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "The Chinese University of Hong Kong",
+      "area": "Ph.D Student",
+      "studyType": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Harbin Institute of Technology, Shenzhen",
+      "area": "M.S. in Control Engineering",
+      "studyType": "",
+      "startDate": "2021",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Changsha University of Science and Technology",
+      "area": "B.E. in Automation Engineering",
+      "studyType": "",
+      "startDate": "2017",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "honors": [
+    {
+      "title": "Outstanding Master's Thesis",
+      "institution": "Harbin Institute of Technology, Shenzhen",
+      "data": "2024"
+    },
+    {
+      "title": "Outstanding Graduate of Hunan Province",
+      "institution": "Hunan Provincial Department of Education, China",
+      "data": "2021"
+    }
+  ],
+  "research": [
+    {
+      "institution": "Hong Kong Centre for Logistics Robotics (HKCLR)",
+      "startDate": "2024",
+      "endDate": "2025",
+      "course": "Humanoid robots locomotion."
+    },
+    {
+      "institution": "State Key Laboratory of Robotics and System",
+      "startDate": "2021",
+      "endDate": "2024",
+      "course": "Whole-body control for quadruped manipulator robots."
+    },
+    {
+      "institution": "National Engineering Research Center of Robot Vision and Control",
+      "startDate": "2019",
+      "endDate": "2021",
+      "course": "Visual servoing for aerial manipulator robots."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Proficient with JLPT N2"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient with IELTS 6.5 (Listening: 6.5, Reading: 7.0, Writing: 6.0, Speaking: 7.0)"
+    }
+  ]
+}
