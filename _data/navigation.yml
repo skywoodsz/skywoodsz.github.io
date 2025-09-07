@@ -10,6 +10,12 @@
 main:
   - title: "Projects"
     url: /projects/   
+
+  - title: "Services"
+    url: /services/
+
+  - title: "CV&Honors"
+    url: /cv-json/
     
   # - title: "Publications"
   #   url: /publications/
@@ -28,9 +34,6 @@ main:
     
   # - title: "CV"
   #   url: /cv/
-    
-  - title: "CV&Honors"
-    url: /cv-json/
     
   # - title: "Guide"
   #   url: /markdown/
