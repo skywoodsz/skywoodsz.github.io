@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "Services"
+title: ""
 layout: archive
 ---
 
@@ -16,7 +16,6 @@ Academic Services
 
 Teaching
 ======
-
 | Date      | Type               | Description                                            |
 | --------- | ------------------ | ------------------------------------------------------ |
 | Fall 2025 | Teaching Assistant | MAEG2020, Engineering Mechanics - CUHK - Dr. LI Yiyang |
