@@ -1,7 +1,7 @@
 ---
 permalink: /services/
 title: ""
-layout: archive
+layout: single
 ---
 
 Academic Services
