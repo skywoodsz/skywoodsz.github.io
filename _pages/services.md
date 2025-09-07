@@ -16,9 +16,23 @@ Academic Services
 
 Teaching
 ======
-| Date      | Type               | Description                                            |
+<!-- | Date      | Type               | Description                                            |
 | --------- | ------------------ | ------------------------------------------------------ |
-| Fall 2025 | Teaching Assistant | MAEG2020, Engineering Mechanics - CUHK - Dr. LI Yiyang |
+| Fall 2025 | Teaching Assistant | MAEG2020, Engineering Mechanics - CUHK - Dr. LI Yiyang | -->
+<table style="width:100%; border-collapse: collapse; border:1px solid #ccc; font-size: 1em;">
+  <tr>
+    <th style="border:1px solid #ccc; padding:8px;">Date</th>
+    <th style="border:1px solid #ccc; padding:8px;">Type</th>
+    <th style="border:1px solid #ccc; padding:8px;">Description</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">Fall 2025</td>
+    <td style="border:1px solid #ccc; padding:8px;">Teaching Assistant</td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      MAEG2020, Engineering Mechanics - CUHK - Dr. LI Yiyang
+    </td>
+  </tr>
+</table>
 
 
 
