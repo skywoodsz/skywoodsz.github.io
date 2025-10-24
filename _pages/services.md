@@ -12,7 +12,7 @@ Academic Services
 ======
 *Conference Reviewer*
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024, 2025.
-- IEEE International Conference on Robotics and Automation (ICRA), 2024, 2025, 2026.
+- IEEE International Conference on Robotics and Automation (ICRA), 2024, 2025.
 
 *Journal Reviewer*
 - IEEE/ASME Transactions on Mechatronics (TMech)
