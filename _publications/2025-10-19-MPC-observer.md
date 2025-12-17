@@ -1,6 +1,6 @@
 ---
 title: "Whole-Body Admittance Control of Anti-Saturation for Quadruped Manipulators with Impact Force Observer"
-authors: "authors: F. Lin, <b>T. Zhang</b>, X. Xiong and Y. Lou"
+authors: "F. Lin, <b>T. Zhang</b>, X. Xiong and Y. Lou"
 date: 2025-10-19
 venue: "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 image: "/images/publication/MPC_observer.png"
