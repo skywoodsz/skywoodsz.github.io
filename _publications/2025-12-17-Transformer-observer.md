@@ -5,6 +5,7 @@ date: 2025-12-17
 venue: "IEEE Robotics and Automation Letters"
 image: "/images/publication/Transformer_observer.png"
 type: "Article"
+paper: https://ieeexplore.ieee.org/document/11302805
 
 collection: publications
 permalink: /publication/2025-12-17-Transformer-observer
