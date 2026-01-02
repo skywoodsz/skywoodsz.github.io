@@ -16,9 +16,6 @@ Academic Services
 
 Teaching
 ======
-<!-- | Date      | Type               | Description                                            |
-| --------- | ------------------ | ------------------------------------------------------ |
-| Fall 2025 | Teaching Assistant | MAEG2020, Engineering Mechanics - CUHK - Dr. LI Yiyang | -->
 <table style="width:100%; border-collapse: collapse; border:1px solid #ccc; font-size: 1em;">
   <tr>
     <th style="border:1px solid #ccc; padding:8px;">Date</th>
@@ -32,7 +29,15 @@ Teaching
       MAEG2020, Engineering Mechanics - CUHK - Dr. LI Yiyang
     </td>
   </tr>
+  <tr>
+    <td style="border:1px solid #ccc; padding:8px;">Spring 2026</td>
+    <td style="border:1px solid #ccc; padding:8px;">Teaching Assistant</td>
+    <td style="border:1px solid #ccc; padding:8px;">
+      ENGG2740B, Differential Equations for Engineers - CUHK - Dr. LI Yiyang
+    </td>
+  </tr>
 </table>
+
 
 
 

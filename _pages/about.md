@@ -1,3 +1,7 @@
+<!--
+ * @Author: skywoodsz
+ * @Date: 2025-09-07 08:25:09
+-->
 ---
 permalink: /
 title: ""
@@ -10,7 +14,7 @@ redirect_from:
 
 About Me
 ======
-I am Zhang Tianlin (张天霖), a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. [Liu Yun-Hui](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) in the [Legged Robot Lab](https://cuhkleggedrobotlab.github.io/).
+I am Zhang Tianlin (张天霖), a Ph.D. student at The Chinese University of Hong Kong, advised by Prof. [Liu Yun-Hui](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) at the [Legged Robot Lab](https://cuhkleggedrobotlab.github.io/).
 
 My research focuses on whole-body control, multi-contact planning, and other related topics in robotics. Some of my work can be found on [Youtube](https://www.youtube.com/channel/UCRsGxiYkqGvwHsZz1F8rHug) and [Bilibili](https://space.bilibili.com/3289375) (for viewers in China).
 
